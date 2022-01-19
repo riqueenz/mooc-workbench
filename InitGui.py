@@ -55,7 +55,7 @@ class MoocWorkbench(Gui.Workbench):
     from PySide.QtCore import QT_TRANSLATE_NOOP
     global main_moocWB_Icon
 
-    MenuText = "MOOC"
+    MenuText = "Learn"
     ToolTip = FreeCAD.Qt.translate("MOOC", "Apprenez FreeCAD")
     Icon = main_moocWB_Icon
 
